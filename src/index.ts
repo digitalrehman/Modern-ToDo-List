@@ -8,13 +8,13 @@ import {
   deleteDoc,
 } from "firebase/firestore";
 const firebaseConfig = {
-  apiKey: "AIzaSyDNR23F-IVyB_HJbnA6jP-CIKrm4EUQAJ8",
-  authDomain: "tod0-bbccc.firebaseapp.com",
-  projectId: "tod0-bbccc",
-  storageBucket: "tod0-bbccc.appspot.com",
-  messagingSenderId: "648642521628",
-  appId: "1:648642521628:web:303ee81470ff76c8cfcdd9",
-  measurementId: "G-DXRCX4L6CT",
+  apiKey: "AIzaSyCDCBcJKSUpEI9x0q62Nm0fNyL2tqp7xEE",
+  authDomain: "modern-todo-3fae3.firebaseapp.com",
+  projectId: "modern-todo-3fae3",
+  storageBucket: "modern-todo-3fae3.appspot.com",
+  messagingSenderId: "850084499922",
+  appId: "1:850084499922:web:b70086965c658e49d1380b",
+  measurementId: "G-D2CL6E4H8H"
 };
 
 const app = initializeApp(firebaseConfig);
